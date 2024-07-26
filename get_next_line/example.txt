@@ -1,0 +1,14 @@
+Welcome to the file!
+This is the first line.
+linea3
+  que tal?, hay espacios delante
+prueba linea 5
+/--'' cosas raras delante
+'\n' un barraenne delante
+linea 8
+
+
+espacios antes
+linea 12
+linea 13
+fin archivo.
